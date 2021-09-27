@@ -39,13 +39,13 @@ doubleAndReturnArgs([2],10,4) // [2, 20, 8]
 /*
 const doubleAndReturnArgs = (arr, ...args) => [...arr, ...args.map( num =>  num *2)]
 
-*/
+/*
 
 Slice and Dice!
 For this section, write the following functions using rest, spread and refactor these functions to be arrow functions!
 
 Make sure that you are always returning a new array or object and not modifying the existing inputs.
-/*
+*/
 
 /** remove a random element in the items array
 and return a new array without that item. */
